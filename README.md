@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 
+*My nme is Mikaela. I am a student at middle university in sweden and i study web development*
 
 <!--
 **mifr2204/mifr2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
